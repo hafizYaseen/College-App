@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "149439896082",
+    "project_id": "golden-tempest-385005",
+    "storage_bucket": "golden-tempest-385005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149439896082:android:76f8fa274043d26fc916cb",
+        "android_client_info": {
+          "package_name": "com.yaseen.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3vMszqZ8oj6gk1P74vCbVMoqBy0KcKbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
